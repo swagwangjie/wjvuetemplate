@@ -1,5 +1,7 @@
 # wj-vue-temp
-
+```
+vue cli 初始化 模板
+```
 ## Project setup
 ```
 npm install
